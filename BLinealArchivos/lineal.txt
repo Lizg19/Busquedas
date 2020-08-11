@@ -1,0 +1,3 @@
+Los elementos son: 4 1 3 2 5
+Elemento a buscar 3 
+Elemento encontrado en la posicion 2
